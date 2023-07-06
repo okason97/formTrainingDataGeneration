@@ -1,8 +1,5 @@
 from __future__ import print_function
 from argparse import ArgumentParser
-import glob
-import random
-import time
 
 import sys
 sys.path.append('./')
